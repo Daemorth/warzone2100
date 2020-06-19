@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: warzone2100\n"
 "Report-Msgid-Bugs-To: warzone2100-project@lists.sourceforge.net\n"
-"POT-Creation-Date: 2020-06-16 19:27+0000\n"
+"POT-Creation-Date: 2020-06-19 22:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3420,7 +3420,7 @@ msgstr ""
 #. data/mp/messages/resmessages2.json: $.RES_W_BMB1.text[2]
 #: data/base/messages/strings/resstrings.txt:699
 #: data/mp/messages/strings/resstrings.txt:338
-#: po/custom/fromJson.txt:1083
+#: po/custom/fromJson.txt:1079
 msgid "Best Targets: Base Structures"
 msgstr ""
 
@@ -3664,7 +3664,7 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:781
 #: data/mp/messages/strings/resstrings.txt:373
 #: data/mp/messages/strings/resstrings.txt:378
-#: po/custom/fromJson.txt:1093
+#: po/custom/fromJson.txt:1099
 msgid "Best Targets: Base Structures, infantry, wheeled vehicles"
 msgstr ""
 
@@ -3867,7 +3867,7 @@ msgstr ""
 #. ... + 4 refs
 #: data/base/messages/strings/resstrings.txt:893
 #: data/mp/messages/strings/resstrings.txt:413
-#: po/custom/fromJson.txt:1099
+#: po/custom/fromJson.txt:1093
 msgid "Best Targets: Base structures, infantry, wheeled vehicles"
 msgstr ""
 
@@ -5330,7 +5330,7 @@ msgstr ""
 #. TRANSLATORS:
 #. data/mp/stats/research.json: $.R-Sys-Resistance-Circuits.name
 #: data/mp/messages/strings/names.txt:490
-#: po/custom/fromJson.txt:4240
+#: po/custom/fromJson.txt:4243
 msgid "Nexus Resistance Circuits"
 msgstr ""
 
@@ -6998,7 +6998,7 @@ msgstr ""
 #. TRANSLATORS:
 #. data/base/messages/resmessages12.json: $.RES_W_RK_MRL1.text[2]
 #. data/mp/messages/resmessages12.json: $.RES_W_RK_MRL1.text[2]
-#: po/custom/fromJson.txt:1079
+#: po/custom/fromJson.txt:1083
 msgid "Best Targets: Base structures"
 msgstr ""
 
@@ -11465,7 +11465,7 @@ msgstr ""
 
 #. TRANSLATORS:
 #. data/base/stats/research.json: $.R-Sys-Resistance-Upgrade01.name
-#: po/custom/fromJson.txt:4243
+#: po/custom/fromJson.txt:4240
 msgid "NEXUS Resistance Circuits"
 msgstr ""
 
@@ -13332,18 +13332,18 @@ msgid "Thermal Armor +35%"
 msgstr ""
 
 #. TRANSLATORS:
-#. data/mp/messages/resmessages2.json: $.RES_V_AH1.text[2]
-#: po/custom/fromJson.txt:5475
+#. data/mp/messages/resmessages3.json: $.RES_V_AH4.text[2]
+#. data/mp/messages/resmessagesall.json: $.RES_V_AH7.text[2]
+#: po/custom/fromJson.txt:5476
 #, no-c-format
-msgid "Thermal armor +40%"
+msgid "Thermal Armor +40%"
 msgstr ""
 
 #. TRANSLATORS:
-#. data/mp/messages/resmessages3.json: $.RES_V_AH4.text[2]
-#. data/mp/messages/resmessagesall.json: $.RES_V_AH7.text[2]
+#. data/mp/messages/resmessages2.json: $.RES_V_AH1.text[2]
 #: po/custom/fromJson.txt:5480
 #, no-c-format
-msgid "Thermal Armor +40%"
+msgid "Thermal armor +40%"
 msgstr ""
 
 #. TRANSLATORS:
@@ -14500,21 +14500,21 @@ msgstr ""
 msgid "Strategy Game"
 msgstr ""
 
-#: src/cheat.cpp:176
+#: src/cheat.cpp:182
 #, c-format
 msgid "%s wants to enable debug mode. Enabled: %s, Disabled: %s."
 msgstr ""
 
-#: src/cheat.cpp:180
+#: src/cheat.cpp:186
 #, c-format
 msgid "%s wants to disable debug mode. Enabled: %s, Disabled: %s."
 msgstr ""
 
-#: src/cheat.cpp:186
+#: src/cheat.cpp:192
 msgid "Debug mode now enabled!"
 msgstr ""
 
-#: src/cheat.cpp:192
+#: src/cheat.cpp:198
 msgid "Debug mode now disabled!"
 msgstr ""
 
@@ -14703,12 +14703,12 @@ msgstr ""
 msgid "Commander needs a higher level to command more units"
 msgstr ""
 
-#: src/configuration.cpp:171
+#: src/configuration.cpp:172
 msgid "My Game"
 msgstr ""
 
-#: src/configuration.cpp:172
-#: src/multistat.cpp:178
+#: src/configuration.cpp:173
+#: src/multistat.cpp:179
 msgid "Player"
 msgstr ""
 
@@ -14864,34 +14864,34 @@ msgstr ""
 msgid "Cannot Build. Oil Resource Burning."
 msgstr ""
 
-#: src/display.cpp:1547
+#: src/display.cpp:1549
 #, c-format
 msgid "%s - Hitpoints %d/%d - Experience %.1f, %s"
 msgstr ""
 
-#: src/display.cpp:1709
+#: src/display.cpp:1711
 #, c-format
 msgid "%s - Allied - Hitpoints %d/%d - Experience %d, %s"
 msgstr ""
 
-#: src/display3d.cpp:700
+#: src/display3d.cpp:706
 msgid "Player left"
 msgstr ""
 
-#: src/display3d.cpp:704
+#: src/display3d.cpp:710
 msgid "Player dropped"
 msgstr ""
 
-#: src/display3d.cpp:708
+#: src/display3d.cpp:714
 #: src/multiint.cpp:2224
 msgid "Waiting for other players"
 msgstr ""
 
-#: src/display3d.cpp:713
+#: src/display3d.cpp:719
 msgid "Out of sync"
 msgstr ""
 
-#: src/display3d.cpp:1915
+#: src/display3d.cpp:1929
 #, c-format
 msgid "Setting zoom to %.0f"
 msgstr ""
@@ -15800,7 +15800,7 @@ msgid "Allow"
 msgstr ""
 
 #: src/intelmap.cpp:239
-#: src/keybind.cpp:1362
+#: src/keybind.cpp:1376
 msgid "PAUSED"
 msgstr ""
 
@@ -15972,14 +15972,14 @@ msgstr ""
 #: src/keybind.cpp:535
 #: src/keybind.cpp:550
 #: src/keybind.cpp:591
-#: src/keybind.cpp:692
-#: src/keybind.cpp:729
-#: src/keybind.cpp:784
-#: src/keybind.cpp:1294
-#: src/keybind.cpp:1415
-#: src/keybind.cpp:1517
-#: src/keybind.cpp:1815
-#: src/keybind.cpp:1855
+#: src/keybind.cpp:706
+#: src/keybind.cpp:743
+#: src/keybind.cpp:798
+#: src/keybind.cpp:1308
+#: src/keybind.cpp:1429
+#: src/keybind.cpp:1531
+#: src/keybind.cpp:1829
+#: src/keybind.cpp:1869
 #, c-format
 msgid "(Player %u) is using cheat :%s"
 msgstr ""
@@ -16020,183 +16020,191 @@ msgstr ""
 msgid "FPS display is disabled."
 msgstr ""
 
-#: src/keybind.cpp:659
+#: src/keybind.cpp:617
+msgid "Unit count display is enabled."
+msgstr ""
+
+#: src/keybind.cpp:621
+msgid "Unit count display is disabled."
+msgstr ""
+
+#: src/keybind.cpp:673
 #, c-format
 msgid "(Player %u) is using a cheat :Num Droids: %d  Num Structures: %d  Num Features: %d"
 msgstr ""
 
-#: src/keybind.cpp:693
+#: src/keybind.cpp:707
 msgid "Infinite power disabled"
 msgstr ""
 
-#: src/keybind.cpp:693
+#: src/keybind.cpp:707
 msgid "Infinite power enabled"
 msgstr ""
 
-#: src/keybind.cpp:730
+#: src/keybind.cpp:744
 msgid "All items made available"
 msgstr ""
 
-#: src/keybind.cpp:785
+#: src/keybind.cpp:799
 msgid "Fog on"
 msgstr ""
 
-#: src/keybind.cpp:785
+#: src/keybind.cpp:799
 msgid "Fog off"
 msgstr ""
 
-#: src/keybind.cpp:894
-#: src/keybind.cpp:907
+#: src/keybind.cpp:908
+#: src/keybind.cpp:921
 #, c-format
 msgid "Setting radar zoom to %u"
 msgstr ""
 
-#: src/keybind.cpp:1295
+#: src/keybind.cpp:1309
 msgid "God Mode ON"
 msgstr ""
 
-#: src/keybind.cpp:1295
+#: src/keybind.cpp:1309
 msgid "God Mode OFF"
 msgstr ""
 
-#: src/keybind.cpp:1307
+#: src/keybind.cpp:1321
 msgid "View Aligned to North"
 msgstr ""
 
-#: src/keybind.cpp:1331
+#: src/keybind.cpp:1345
 #, c-format
 msgid "Trap cursor %s"
 msgstr ""
 
-#: src/keybind.cpp:1416
+#: src/keybind.cpp:1430
 msgid "Researched EVERYTHING for you!"
 msgstr ""
 
-#: src/keybind.cpp:1440
+#: src/keybind.cpp:1454
 msgid "Selected buildings instantly recharged!"
 msgstr ""
 
-#: src/keybind.cpp:1480
+#: src/keybind.cpp:1494
 #, c-format
 msgid "(Player %u) is using cheat :%s %s"
 msgstr ""
 
-#: src/keybind.cpp:1480
+#: src/keybind.cpp:1494
 msgid "Researched"
 msgstr ""
 
-#: src/keybind.cpp:1501
+#: src/keybind.cpp:1515
 msgid "Only displaying energy bars when selected"
 msgstr ""
 
-#: src/keybind.cpp:1504
+#: src/keybind.cpp:1518
 msgid "Always displaying energy bars for units"
 msgstr ""
 
-#: src/keybind.cpp:1507
+#: src/keybind.cpp:1521
 msgid "Always displaying energy bars for units and structures"
 msgstr ""
 
-#: src/keybind.cpp:1518
+#: src/keybind.cpp:1532
 msgid "Debug menu is Open"
 msgstr ""
 
-#: src/keybind.cpp:1547
+#: src/keybind.cpp:1561
 msgid "Unable to locate any oil derricks!"
 msgstr ""
 
-#: src/keybind.cpp:1711
+#: src/keybind.cpp:1725
 msgid "Oh, the weather outside is frightful... SNOW"
 msgstr ""
 
-#: src/keybind.cpp:1717
+#: src/keybind.cpp:1731
 msgid "Singing in the rain, I'm singing in the rain... RAIN"
 msgstr ""
 
-#: src/keybind.cpp:1723
+#: src/keybind.cpp:1737
 msgid "Forecast : Clear skies for all areas... NO WEATHER"
 msgstr ""
 
-#: src/keybind.cpp:1814
+#: src/keybind.cpp:1828
 msgid "Warning! This can have drastic consequences if used incorrectly in missions."
 msgstr ""
 
-#: src/keybind.cpp:1816
+#: src/keybind.cpp:1830
 msgid "All enemies destroyed by cheating!"
 msgstr ""
 
-#: src/keybind.cpp:1856
+#: src/keybind.cpp:1870
 msgid "Destroying selected droids and structures!"
 msgstr ""
 
-#: src/keybind.cpp:2284
+#: src/keybind.cpp:2298
 msgid "Reveal OFF"
 msgstr ""
 
-#: src/keybind.cpp:2289
+#: src/keybind.cpp:2303
 msgid "Reveal ON"
 msgstr ""
 
-#: src/keybind.cpp:2370
+#: src/keybind.cpp:2384
 msgid "Centered on player HQ, direction NORTH"
 msgstr ""
 
-#: src/keybind.cpp:2382
+#: src/keybind.cpp:2396
 msgid "Unable to locate HQ!"
 msgstr ""
 
-#: src/keybind.cpp:2389
+#: src/keybind.cpp:2403
 msgid "Formation speed limiting has been removed from the game due to bugs."
 msgstr ""
 
-#: src/keybind.cpp:2438
+#: src/keybind.cpp:2452
 msgid "Vertical rotation direction: Normal"
 msgstr ""
 
-#: src/keybind.cpp:2443
+#: src/keybind.cpp:2457
 msgid "Vertical rotation direction: Flipped"
 msgstr ""
 
-#: src/keybind.cpp:2495
+#: src/keybind.cpp:2509
 msgid "Sorry, but game speed cannot be changed in multiplayer."
 msgstr ""
 
-#: src/keybind.cpp:2530
-#: src/keybind.cpp:2584
+#: src/keybind.cpp:2544
+#: src/keybind.cpp:2598
 msgid "Game Speed Reset"
 msgstr ""
 
-#: src/keybind.cpp:2534
+#: src/keybind.cpp:2548
 #, c-format
 msgid "Game Speed Increased to %s"
 msgstr ""
 
-#: src/keybind.cpp:2538
+#: src/keybind.cpp:2552
 #, c-format
 msgid "Game Speed Reduced to %s"
 msgstr ""
 
-#: src/keybind.cpp:2596
+#: src/keybind.cpp:2610
 msgid "Radar showing friend-foe colors"
 msgstr ""
 
-#: src/keybind.cpp:2600
+#: src/keybind.cpp:2614
 msgid "Radar showing player colors"
 msgstr ""
 
-#: src/keybind.cpp:2615
+#: src/keybind.cpp:2629
 msgid "Radar showing only objects"
 msgstr ""
 
-#: src/keybind.cpp:2618
+#: src/keybind.cpp:2632
 msgid "Radar blending terrain and height"
 msgstr ""
 
-#: src/keybind.cpp:2621
+#: src/keybind.cpp:2635
 msgid "Radar showing terrain"
 msgstr ""
 
-#: src/keybind.cpp:2624
+#: src/keybind.cpp:2638
 msgid "Radar showing height"
 msgstr ""
 
@@ -17201,31 +17209,31 @@ msgstr ""
 msgid "Players Still Joining"
 msgstr ""
 
-#: src/multijoin.cpp:266
+#: src/multijoin.cpp:273
 #, c-format
 msgid "%s has Left the Game"
 msgstr ""
 
-#: src/multijoin.cpp:324
+#: src/multijoin.cpp:331
 #, c-format
 msgid "File transfer has been aborted for %d."
 msgstr ""
 
-#: src/multijoin.cpp:452
+#: src/multijoin.cpp:459
 #, c-format
 msgid "%s (%u) has an incompatible mod, and has been kicked."
 msgstr ""
 
-#: src/multijoin.cpp:493
+#: src/multijoin.cpp:492
 #, c-format
 msgid "%s is joining the game"
 msgstr ""
 
-#: src/multijoin.cpp:505
+#: src/multijoin.cpp:504
 msgid "Server message:"
 msgstr ""
 
-#: src/multijoin.cpp:518
+#: src/multijoin.cpp:517
 msgid "There is an update to the game, please visit https://wz2100.net to download new version."
 msgstr ""
 
@@ -17641,86 +17649,86 @@ msgid_plural "%u units selected"
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/structure.cpp:2504
+#: src/structure.cpp:2512
 msgid "Can't build any more units, Unit Limit Reached — Production Halted"
 msgstr ""
 
-#: src/structure.cpp:2512
+#: src/structure.cpp:2520
 #, c-format
 msgid "Can't build \"%s\" without a Command Relay Center — Production Halted"
 msgstr ""
 
-#: src/structure.cpp:2517
+#: src/structure.cpp:2525
 #, c-format
 msgid "Can't build \"%s\", Commander Limit Reached — Production Halted"
 msgstr ""
 
-#: src/structure.cpp:2525
+#: src/structure.cpp:2533
 #, c-format
 msgid "Can't build any more \"%s\", Construction Unit Limit Reached — Production Halted"
 msgstr ""
 
-#: src/structure.cpp:5446
+#: src/structure.cpp:5454
 #, c-format
 msgid "%s - %u Unit assigned - Hitpoints %d/%d"
 msgid_plural "%s - %u Units assigned - Hitpoints %d/%d"
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/structure.cpp:5465
+#: src/structure.cpp:5473
 #, c-format
 msgid "%s - %u Unit assigned - Damage %d/%d"
 msgid_plural "%s - %u Units assigned - Hitpoints %d/%d"
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/structure.cpp:5470
-#: src/structure.cpp:5480
-#: src/structure.cpp:5487
-#: src/structure.cpp:5513
-#: src/structure.cpp:5522
-#: src/structure.cpp:5529
+#: src/structure.cpp:5478
+#: src/structure.cpp:5488
+#: src/structure.cpp:5495
+#: src/structure.cpp:5521
+#: src/structure.cpp:5530
 #: src/structure.cpp:5537
+#: src/structure.cpp:5545
 #, c-format
 msgid "%s - Hitpoints %d/%d"
 msgstr ""
 
-#: src/structure.cpp:5503
+#: src/structure.cpp:5511
 #, c-format
 msgid "%s - Connected %u of %u - Hitpoints %d/%d"
 msgstr ""
 
-#: src/structure.cpp:5658
-#: src/structure.cpp:5701
+#: src/structure.cpp:5666
+#: src/structure.cpp:5709
 #, c-format
 msgid "%s - Electronically Damaged"
 msgstr ""
 
-#: src/structure.cpp:5826
+#: src/structure.cpp:5834
 msgid "Electronic Reward - Visibility Report"
 msgstr ""
 
-#: src/structure.cpp:5865
+#: src/structure.cpp:5873
 msgid "Factory Reward - Propulsion"
 msgstr ""
 
-#: src/structure.cpp:5887
+#: src/structure.cpp:5895
 msgid "Factory Reward - Body"
 msgstr ""
 
-#: src/structure.cpp:5909
+#: src/structure.cpp:5917
 msgid "Factory Reward - Weapon"
 msgstr ""
 
-#: src/structure.cpp:5917
+#: src/structure.cpp:5925
 msgid "Factory Reward - Nothing"
 msgstr ""
 
-#: src/structure.cpp:5944
+#: src/structure.cpp:5952
 msgid "Repair Facility Award - Repair"
 msgstr ""
 
-#: src/structure.cpp:5950
+#: src/structure.cpp:5958
 msgid "Repair Facility Award - Nothing"
 msgstr ""
 
